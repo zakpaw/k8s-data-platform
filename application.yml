@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/zakpaw/k8spark.git
     targetRevision: HEAD
-    path: spark
+    path: charts/spark
   destination:
     server: https://kubernetes.default.svc
     namespace: spark

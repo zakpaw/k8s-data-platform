@@ -1,0 +1,4 @@
+spark:
+  master:
+    containerPorts:
+      http: 8081
